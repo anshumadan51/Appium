@@ -1,0 +1,682 @@
+2019-05-13 21:24:21 INFO  Logging:15 - ****************************************************************************************
+2019-05-13 21:24:21 INFO  Logging:17 - ****************************************************************************************
+2019-05-13 21:24:21 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 null       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-13 21:24:21 INFO  Logging:21 - ****************************************************************************************
+2019-05-13 21:24:21 INFO  Logging:23 - ****************************************************************************************
+2019-05-13 21:34:28 INFO  Logging:15 - ****************************************************************************************
+2019-05-13 21:34:28 INFO  Logging:17 - ****************************************************************************************
+2019-05-13 21:34:28 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Verify WebView Search       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-13 21:34:28 INFO  Logging:21 - ****************************************************************************************
+2019-05-13 21:34:28 INFO  Logging:23 - ****************************************************************************************
+2019-05-13 21:34:42 INFO  Logging:47 - Launching the application
+2019-05-13 21:34:54 INFO  Logging:47 - Clicking on [HomePage/WebView]
+2019-05-14 11:20:17 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 11:20:17 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 11:20:17 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Verify Exceptions       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 11:20:17 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 11:20:17 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 11:20:45 INFO  Logging:47 - Launching the application
+2019-05-14 11:20:50 INFO  Logging:47 - Clicking on [HomePage/Exception]
+2019-05-14 11:21:17 ERROR Logging:59 - Not able to Click on [HomePage/Exception]
+2019-05-14 11:21:25 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 11:21:25 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 11:21:25 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 null       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 11:21:25 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 11:21:25 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 11:21:25 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 11:21:25 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2019-05-14 11:21:25 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2019-05-14 11:21:25 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2019-05-14 11:21:25 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 11:21:25 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2019-05-14 11:21:25 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2019-05-14 11:21:25 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2019-05-14 11:21:26 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 11:21:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2019-05-14 11:21:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2019-05-14 11:21:26 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2019-05-14 11:21:26 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 11:21:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2019-05-14 11:21:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2019-05-14 11:21:26 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2019-05-14 11:21:26 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 11:21:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2019-05-14 11:21:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2019-05-14 11:21:26 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2019-05-14 11:21:26 DEBUG cache:45 - Couldn't find template in cache for "test-view/bdd.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 11:21:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/bdd_en.ftl"): Not found
+2019-05-14 11:21:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/bdd.ftl"): Found
+2019-05-14 11:21:26 DEBUG cache:45 - Loading template for "test-view/bdd.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/bdd.ftl"
+2019-05-14 11:21:26 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 11:21:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2019-05-14 11:21:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2019-05-14 11:21:26 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2019-05-14 11:21:26 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 11:21:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2019-05-14 11:21:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2019-05-14 11:21:26 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2019-05-14 11:21:26 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 11:21:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2019-05-14 11:21:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2019-05-14 11:21:26 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2019-05-14 11:21:26 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 11:21:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2019-05-14 11:21:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2019-05-14 11:21:26 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2019-05-14 11:21:26 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 11:21:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2019-05-14 11:21:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2019-05-14 11:21:26 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2019-05-14 11:34:23 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 11:34:23 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 11:34:23 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Registration       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 11:34:23 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 11:34:23 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 11:34:52 INFO  Logging:47 - Launching the application
+2019-05-14 11:34:58 INFO  Logging:47 - Clicking on [HomePage/StartRegistration]
+2019-05-14 11:36:40 INFO  Logging:47 - Entering value in [RegistrationPage/UserName] as [Anshul]
+2019-05-14 11:38:00 INFO  Logging:47 - Entering value in [RegistrationPage/Email] as [anshu@gmail.com]
+2019-05-14 11:39:10 INFO  Logging:47 - Entering value in [RegistrationPage/Password] as [anshul]
+2019-05-14 11:39:51 INFO  Logging:47 - Entering value in [RegistrationPage/Name] as [Mr.Madan]
+2019-05-14 11:40:00 INFO  Logging:47 - Clicking on [RegistrationPage/ProgrammingLanuguge]
+2019-05-14 11:40:50 INFO  Logging:47 - Clicking on [PHP]
+2019-05-14 11:40:54 INFO  Logging:47 - Clicking on [RegistrationPage/Accept]
+2019-05-14 11:40:59 INFO  Logging:47 - Clicking on [RegistrationPage/RegisterUser]
+2019-05-14 11:41:42 INFO  Logging:47 - Clicking on [VerifyUser/RegisterUser]
+2019-05-14 11:41:57 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 11:41:57 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 11:41:57 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 null       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 11:41:57 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 11:41:57 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 11:41:57 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 11:41:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2019-05-14 11:41:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2019-05-14 11:41:57 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2019-05-14 11:41:57 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 11:41:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2019-05-14 11:41:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2019-05-14 11:41:57 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2019-05-14 11:41:57 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 11:41:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2019-05-14 11:41:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2019-05-14 11:41:57 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2019-05-14 11:41:57 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 11:41:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2019-05-14 11:41:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2019-05-14 11:41:57 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2019-05-14 11:41:57 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 11:41:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2019-05-14 11:41:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2019-05-14 11:41:57 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2019-05-14 11:41:57 DEBUG cache:45 - Couldn't find template in cache for "test-view/bdd.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 11:41:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/bdd_en.ftl"): Not found
+2019-05-14 11:41:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/bdd.ftl"): Found
+2019-05-14 11:41:57 DEBUG cache:45 - Loading template for "test-view/bdd.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/bdd.ftl"
+2019-05-14 11:41:57 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 11:41:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2019-05-14 11:41:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2019-05-14 11:41:57 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2019-05-14 11:41:57 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 11:41:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2019-05-14 11:41:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2019-05-14 11:41:57 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2019-05-14 11:41:57 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 11:41:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2019-05-14 11:41:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2019-05-14 11:41:57 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2019-05-14 11:41:57 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 11:41:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2019-05-14 11:41:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2019-05-14 11:41:57 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2019-05-14 11:41:57 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 11:41:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2019-05-14 11:41:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2019-05-14 11:41:57 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2019-05-14 11:46:58 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 11:46:58 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 11:46:58 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Registration       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 11:46:58 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 11:46:58 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 11:47:24 INFO  Logging:47 - Launching the application
+2019-05-14 11:47:31 INFO  Logging:47 - Clicking on [HomePage/StartRegistration]
+2019-05-14 11:57:34 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 11:57:34 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 11:57:34 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Verify Exceptions       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 11:57:34 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 11:57:34 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 11:57:57 INFO  Logging:47 - Launching the application
+2019-05-14 11:58:02 INFO  Logging:47 - Clicking on [HomePage/Exception]
+2019-05-14 11:58:33 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 11:58:33 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 11:58:33 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 null       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 11:58:33 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 11:58:33 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 11:58:44 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 11:58:44 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 11:58:44 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Verify Scroll       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 11:58:44 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 11:58:44 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 11:58:56 INFO  Logging:47 - Launching the application
+2019-05-14 11:59:03 INFO  Logging:47 - Clicking on [HomePage/TouchActionbutton]
+2019-05-14 11:59:12 INFO  Logging:47 - Element value: FLICK
+2019-05-14 11:59:12 INFO  Logging:47 - Gesture: FLICK Tested sucessfully
+2019-05-14 11:59:20 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 11:59:20 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 11:59:20 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 null       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 11:59:20 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 11:59:20 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 11:59:30 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 11:59:30 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 11:59:30 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Registration       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 11:59:30 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 11:59:30 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 11:59:43 INFO  Logging:47 - Launching the application
+2019-05-14 11:59:48 INFO  Logging:47 - Clicking on [HomePage/StartRegistration]
+2019-05-14 12:00:46 INFO  Logging:47 - Entering value in [RegistrationPage/UserName] as [Anshul]
+2019-05-14 12:01:56 INFO  Logging:47 - Entering value in [RegistrationPage/Email] as [anshu@gmail.com]
+2019-05-14 12:02:47 INFO  Logging:47 - Entering value in [RegistrationPage/Password] as [anshul]
+2019-05-14 12:03:35 INFO  Logging:47 - Entering value in [RegistrationPage/Name] as [Mr.Madan]
+2019-05-14 12:03:44 INFO  Logging:47 - Clicking on [RegistrationPage/ProgrammingLanuguge]
+2019-05-14 12:03:59 INFO  Logging:47 - Clicking on [PHP]
+2019-05-14 12:04:13 INFO  Logging:47 - Clicking on [RegistrationPage/Accept]
+2019-05-14 12:04:20 INFO  Logging:47 - Clicking on [RegistrationPage/RegisterUser]
+2019-05-14 12:04:27 INFO  Logging:47 - Element value: Mr.Madan
+2019-05-14 12:04:27 INFO  Logging:47 - Element value: anshu@gmail.com
+2019-05-14 12:04:28 INFO  Logging:47 - Element value: PHP
+2019-05-14 12:04:28 INFO  Logging:47 - Element value: true
+2019-05-14 12:04:31 INFO  Logging:47 - Clicking on [VerifyUser/RegisterUser]
+2019-05-14 12:04:40 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 12:04:40 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 12:04:40 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 null       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 12:04:40 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 12:04:40 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 12:05:04 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 12:05:04 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 12:05:04 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Verify WebView Search       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 12:05:04 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 12:05:04 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 12:05:17 INFO  Logging:47 - Launching the application
+2019-05-14 12:05:22 INFO  Logging:47 - Clicking on [HomePage/WebView]
+2019-05-14 12:06:17 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 12:06:17 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 12:06:17 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 null       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 12:06:17 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 12:06:17 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 12:06:18 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2019-05-14 12:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2019-05-14 12:06:18 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2019-05-14 12:06:18 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2019-05-14 12:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2019-05-14 12:06:18 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2019-05-14 12:06:18 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2019-05-14 12:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2019-05-14 12:06:18 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2019-05-14 12:06:18 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2019-05-14 12:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2019-05-14 12:06:18 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2019-05-14 12:06:18 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2019-05-14 12:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2019-05-14 12:06:18 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2019-05-14 12:06:18 DEBUG cache:45 - Couldn't find template in cache for "test-view/bdd.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/bdd_en.ftl"): Not found
+2019-05-14 12:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/bdd.ftl"): Found
+2019-05-14 12:06:18 DEBUG cache:45 - Loading template for "test-view/bdd.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/bdd.ftl"
+2019-05-14 12:06:18 DEBUG cache:45 - "test-view/bdd.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-05-14 12:06:18 DEBUG cache:45 - "test-view/bdd.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-05-14 12:06:18 DEBUG cache:45 - "test-view/bdd.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-05-14 12:06:18 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2019-05-14 12:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2019-05-14 12:06:18 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2019-05-14 12:06:18 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2019-05-14 12:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2019-05-14 12:06:18 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2019-05-14 12:06:18 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2019-05-14 12:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2019-05-14 12:06:18 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2019-05-14 12:06:18 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2019-05-14 12:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2019-05-14 12:06:18 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2019-05-14 12:06:18 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2019-05-14 12:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2019-05-14 12:06:18 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2019-05-14 12:35:50 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 12:35:50 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 12:35:50 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Verify WebView Search       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 12:35:50 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 12:35:50 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 12:36:19 INFO  Logging:47 - Launching the application
+2019-05-14 12:36:25 INFO  Logging:47 - Clicking on [HomePage/WebView]
+2019-05-14 12:37:58 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 12:37:58 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 12:37:58 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Verify WebView Search       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 12:37:58 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 12:37:58 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 12:38:22 INFO  Logging:47 - Launching the application
+2019-05-14 12:38:29 INFO  Logging:47 - Clicking on [HomePage/WebView]
+2019-05-14 12:40:25 INFO  Logging:47 - Element value: 
+2019-05-14 12:40:25 ERROR Logging:59 - Expected value is : Hellosame as 
+2019-05-14 12:40:36 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 12:40:36 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 12:40:36 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 null       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 12:40:36 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 12:40:36 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 12:40:36 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:40:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2019-05-14 12:40:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2019-05-14 12:40:36 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2019-05-14 12:40:36 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:40:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2019-05-14 12:40:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2019-05-14 12:40:36 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2019-05-14 12:40:36 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:40:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2019-05-14 12:40:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2019-05-14 12:40:36 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2019-05-14 12:40:36 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:40:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2019-05-14 12:40:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2019-05-14 12:40:36 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2019-05-14 12:40:36 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:40:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2019-05-14 12:40:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2019-05-14 12:40:36 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2019-05-14 12:40:36 DEBUG cache:45 - Couldn't find template in cache for "test-view/bdd.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:40:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/bdd_en.ftl"): Not found
+2019-05-14 12:40:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/bdd.ftl"): Found
+2019-05-14 12:40:36 DEBUG cache:45 - Loading template for "test-view/bdd.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/bdd.ftl"
+2019-05-14 12:40:36 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:40:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2019-05-14 12:40:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2019-05-14 12:40:36 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2019-05-14 12:40:36 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:40:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2019-05-14 12:40:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2019-05-14 12:40:36 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2019-05-14 12:40:36 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:40:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2019-05-14 12:40:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2019-05-14 12:40:36 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2019-05-14 12:40:36 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:40:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2019-05-14 12:40:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2019-05-14 12:40:36 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2019-05-14 12:40:36 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:40:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2019-05-14 12:40:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2019-05-14 12:40:36 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2019-05-14 12:44:45 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 12:44:45 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 12:44:45 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Verify Exceptions       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 12:44:45 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 12:44:45 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 12:45:16 INFO  Logging:47 - Launching the application
+2019-05-14 12:45:20 INFO  Logging:47 - Clicking on [HomePage/Exception]
+2019-05-14 12:45:54 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 12:45:54 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 12:45:54 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 null       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 12:45:54 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 12:45:54 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 12:46:07 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 12:46:07 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 12:46:07 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Verify Scroll       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 12:46:07 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 12:46:07 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 12:46:20 INFO  Logging:47 - Launching the application
+2019-05-14 12:46:26 INFO  Logging:47 - Clicking on [HomePage/TouchActionbutton]
+2019-05-14 12:46:53 INFO  Logging:47 - Element value: FLICK
+2019-05-14 12:46:53 INFO  Logging:47 - Gesture: FLICK Tested sucessfully
+2019-05-14 12:47:01 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 12:47:01 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 12:47:01 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 null       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 12:47:01 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 12:47:01 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 12:47:18 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 12:47:18 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 12:47:18 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Registration       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 12:47:18 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 12:47:18 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 12:47:30 INFO  Logging:47 - Launching the application
+2019-05-14 12:47:36 INFO  Logging:47 - Clicking on [HomePage/StartRegistration]
+2019-05-14 12:48:14 INFO  Logging:47 - Entering value in [RegistrationPage/UserName] as [Anshul]
+2019-05-14 12:50:12 INFO  Logging:47 - Entering value in [RegistrationPage/Email] as [anshu@gmail.com]
+2019-05-14 12:51:30 INFO  Logging:47 - Entering value in [RegistrationPage/Password] as [anshul]
+2019-05-14 12:52:22 INFO  Logging:47 - Entering value in [RegistrationPage/Name] as [Mr.Madan]
+2019-05-14 12:52:29 INFO  Logging:47 - Clicking on [RegistrationPage/ProgrammingLanuguge]
+2019-05-14 12:52:52 INFO  Logging:47 - Clicking on [PHP]
+2019-05-14 12:52:56 INFO  Logging:47 - Clicking on [RegistrationPage/Accept]
+2019-05-14 12:53:01 INFO  Logging:47 - Clicking on [RegistrationPage/RegisterUser]
+2019-05-14 12:53:17 INFO  Logging:47 - Element value: Mr.Madan
+2019-05-14 12:53:17 INFO  Logging:47 - Element value: anshu@gmail.com
+2019-05-14 12:53:17 INFO  Logging:47 - Element value: PHP
+2019-05-14 12:53:17 INFO  Logging:47 - Element value: true
+2019-05-14 12:53:21 INFO  Logging:47 - Clicking on [VerifyUser/RegisterUser]
+2019-05-14 12:53:26 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 12:53:26 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 12:53:26 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 null       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 12:53:26 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 12:53:26 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 12:53:37 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 12:53:37 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 12:53:37 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Verify WebView Search       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 12:53:37 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 12:53:37 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 12:53:51 INFO  Logging:47 - Launching the application
+2019-05-14 12:53:56 INFO  Logging:47 - Clicking on [HomePage/WebView]
+2019-05-14 12:54:17 INFO  Logging:47 - Element value: 
+2019-05-14 12:54:17 ERROR Logging:59 - Expected value is : Hellosame as 
+2019-05-14 12:54:30 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 12:54:30 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 12:54:30 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 null       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 12:54:30 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 12:54:30 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 12:54:30 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:54:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2019-05-14 12:54:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2019-05-14 12:54:30 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2019-05-14 12:54:31 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:54:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2019-05-14 12:54:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2019-05-14 12:54:31 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2019-05-14 12:54:31 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:54:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2019-05-14 12:54:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2019-05-14 12:54:31 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2019-05-14 12:54:31 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:54:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2019-05-14 12:54:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2019-05-14 12:54:31 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2019-05-14 12:54:31 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:54:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2019-05-14 12:54:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2019-05-14 12:54:31 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2019-05-14 12:54:31 DEBUG cache:45 - Couldn't find template in cache for "test-view/bdd.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:54:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/bdd_en.ftl"): Not found
+2019-05-14 12:54:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/bdd.ftl"): Found
+2019-05-14 12:54:31 DEBUG cache:45 - Loading template for "test-view/bdd.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/bdd.ftl"
+2019-05-14 12:54:31 DEBUG cache:45 - "test-view/bdd.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-05-14 12:54:31 DEBUG cache:45 - "test-view/bdd.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-05-14 12:54:31 DEBUG cache:45 - "test-view/bdd.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-05-14 12:54:31 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:54:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2019-05-14 12:54:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2019-05-14 12:54:31 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2019-05-14 12:54:31 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:54:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2019-05-14 12:54:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2019-05-14 12:54:31 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2019-05-14 12:54:31 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:54:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2019-05-14 12:54:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2019-05-14 12:54:31 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2019-05-14 12:54:31 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:54:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2019-05-14 12:54:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2019-05-14 12:54:31 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2019-05-14 12:54:31 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 12:54:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2019-05-14 12:54:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2019-05-14 12:54:31 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2019-05-14 13:42:09 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 13:42:09 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 13:42:09 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Verify Exceptions       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 13:42:09 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 13:42:09 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 13:42:13 ERROR Logging:59 - Unable to Launch the application
+2019-05-14 13:42:20 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 13:42:20 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 13:42:20 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Verify Scroll       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 13:42:20 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 13:42:20 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 13:42:21 ERROR Logging:59 - Unable to Launch the application
+2019-05-14 13:42:28 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 13:42:28 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 13:42:28 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Registration       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 13:42:28 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 13:42:28 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 13:42:29 ERROR Logging:59 - Unable to Launch the application
+2019-05-14 13:42:36 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 13:42:36 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 13:42:36 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Verify WebView Search       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 13:42:36 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 13:42:36 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 13:42:37 ERROR Logging:59 - Unable to Launch the application
+2019-05-14 13:42:37 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 13:42:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2019-05-14 13:42:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2019-05-14 13:42:37 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2019-05-14 13:42:37 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 13:42:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2019-05-14 13:42:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2019-05-14 13:42:37 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2019-05-14 13:42:37 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 13:42:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2019-05-14 13:42:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2019-05-14 13:42:37 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2019-05-14 13:42:37 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 13:42:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2019-05-14 13:42:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2019-05-14 13:42:37 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2019-05-14 13:42:37 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 13:42:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2019-05-14 13:42:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2019-05-14 13:42:37 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2019-05-14 13:42:37 DEBUG cache:45 - Couldn't find template in cache for "test-view/bdd.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 13:42:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/bdd_en.ftl"): Not found
+2019-05-14 13:42:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/bdd.ftl"): Found
+2019-05-14 13:42:37 DEBUG cache:45 - Loading template for "test-view/bdd.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/bdd.ftl"
+2019-05-14 13:42:37 DEBUG cache:45 - "test-view/bdd.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-05-14 13:42:37 DEBUG cache:45 - "test-view/bdd.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-05-14 13:42:37 DEBUG cache:45 - "test-view/bdd.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-05-14 13:42:38 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 13:42:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2019-05-14 13:42:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2019-05-14 13:42:38 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2019-05-14 13:42:38 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 13:42:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2019-05-14 13:42:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2019-05-14 13:42:38 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2019-05-14 13:42:38 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 13:42:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2019-05-14 13:42:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2019-05-14 13:42:38 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2019-05-14 13:42:38 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 13:42:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2019-05-14 13:42:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2019-05-14 13:42:38 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2019-05-14 13:42:38 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 13:42:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2019-05-14 13:42:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2019-05-14 13:42:38 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2019-05-14 13:43:03 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 13:43:03 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 13:43:03 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Verify Exceptions       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 13:43:03 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 13:43:03 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 13:43:04 ERROR Logging:59 - Unable to Launch the application
+2019-05-14 13:43:11 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 13:43:11 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 13:43:11 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Verify Scroll       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 13:43:11 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 13:43:11 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 13:43:12 ERROR Logging:59 - Unable to Launch the application
+2019-05-14 13:43:20 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 13:43:20 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 13:43:20 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Registration       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 13:43:20 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 13:43:20 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 13:43:21 ERROR Logging:59 - Unable to Launch the application
+2019-05-14 13:43:28 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 13:43:28 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 13:43:28 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Verify WebView Search       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 13:43:28 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 13:43:28 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 13:43:29 ERROR Logging:59 - Unable to Launch the application
+2019-05-14 13:43:29 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2019-05-14 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2019-05-14 13:43:29 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2019-05-14 13:43:29 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2019-05-14 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2019-05-14 13:43:29 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2019-05-14 13:43:29 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2019-05-14 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2019-05-14 13:43:29 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2019-05-14 13:43:29 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2019-05-14 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2019-05-14 13:43:29 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2019-05-14 13:43:29 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2019-05-14 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2019-05-14 13:43:29 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2019-05-14 13:43:29 DEBUG cache:45 - Couldn't find template in cache for "test-view/bdd.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/bdd_en.ftl"): Not found
+2019-05-14 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/bdd.ftl"): Found
+2019-05-14 13:43:29 DEBUG cache:45 - Loading template for "test-view/bdd.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/bdd.ftl"
+2019-05-14 13:43:29 DEBUG cache:45 - "test-view/bdd.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-05-14 13:43:29 DEBUG cache:45 - "test-view/bdd.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-05-14 13:43:29 DEBUG cache:45 - "test-view/bdd.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-05-14 13:43:29 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2019-05-14 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2019-05-14 13:43:29 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2019-05-14 13:43:29 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2019-05-14 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2019-05-14 13:43:29 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2019-05-14 13:43:29 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2019-05-14 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2019-05-14 13:43:29 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2019-05-14 13:43:29 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2019-05-14 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2019-05-14 13:43:29 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2019-05-14 13:43:29 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2019-05-14 13:43:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2019-05-14 13:43:29 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2019-05-14 14:19:49 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 14:19:49 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 14:19:49 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Verify Exceptions       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 14:19:49 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 14:19:49 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 14:20:19 INFO  Logging:47 - Launching the application
+2019-05-14 14:20:24 INFO  Logging:47 - Clicking on [HomePage/Exception]
+2019-05-14 14:20:57 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 14:20:57 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 14:20:57 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 null       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 14:20:57 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 14:20:57 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 14:21:04 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 14:21:04 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 14:21:04 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Verify Scroll       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 14:21:04 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 14:21:04 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 14:21:17 INFO  Logging:47 - Launching the application
+2019-05-14 14:21:22 INFO  Logging:47 - Clicking on [HomePage/TouchActionbutton]
+2019-05-14 14:21:29 INFO  Logging:47 - Element value: FLICK
+2019-05-14 14:21:29 INFO  Logging:47 - Gesture: FLICK Tested sucessfully
+2019-05-14 14:21:39 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 14:21:39 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 14:21:39 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 null       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 14:21:39 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 14:21:39 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 14:21:46 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 14:21:46 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 14:21:46 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Registration       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 14:21:46 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 14:21:46 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 14:22:00 INFO  Logging:47 - Launching the application
+2019-05-14 14:22:05 INFO  Logging:47 - Clicking on [HomePage/StartRegistration]
+2019-05-14 14:23:02 INFO  Logging:47 - Entering value in [RegistrationPage/UserName] as [Anshul]
+2019-05-14 14:25:01 INFO  Logging:47 - Entering value in [RegistrationPage/Email] as [anshu@gmail.com]
+2019-05-14 14:26:10 INFO  Logging:47 - Entering value in [RegistrationPage/Password] as [anshul]
+2019-05-14 14:27:14 INFO  Logging:47 - Entering value in [RegistrationPage/Name] as [Mr.Madan]
+2019-05-14 14:27:24 INFO  Logging:47 - Clicking on [RegistrationPage/ProgrammingLanuguge]
+2019-05-14 14:27:26 INFO  Logging:47 - Clicking on [PHP]
+2019-05-14 14:27:30 INFO  Logging:47 - Clicking on [RegistrationPage/Accept]
+2019-05-14 14:27:42 INFO  Logging:47 - Clicking on [RegistrationPage/RegisterUser]
+2019-05-14 14:27:48 INFO  Logging:47 - Element value: Mr.Madan
+2019-05-14 14:27:48 INFO  Logging:47 - Element value: anshu@gmail.com
+2019-05-14 14:27:48 INFO  Logging:47 - Element value: PHP
+2019-05-14 14:27:49 INFO  Logging:47 - Element value: true
+2019-05-14 14:27:52 INFO  Logging:47 - Clicking on [VerifyUser/RegisterUser]
+2019-05-14 14:27:58 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 14:27:58 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 14:27:58 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 null       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 14:27:58 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 14:27:58 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 14:28:06 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 14:28:06 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 14:28:06 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 Verify WebView Search       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 14:28:06 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 14:28:06 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 14:28:19 INFO  Logging:47 - Launching the application
+2019-05-14 14:28:24 INFO  Logging:47 - Clicking on [HomePage/WebView]
+2019-05-14 14:28:36 INFO  Logging:47 - Element value: 
+2019-05-14 14:28:36 ERROR Logging:59 - Expected value is : Hellosame as 
+2019-05-14 14:28:48 INFO  Logging:15 - ****************************************************************************************
+2019-05-14 14:28:48 INFO  Logging:17 - ****************************************************************************************
+2019-05-14 14:28:48 INFO  Logging:19 - $$$$$$$$$$$$$$$$$$$$$                 null       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-05-14 14:28:48 INFO  Logging:21 - ****************************************************************************************
+2019-05-14 14:28:48 INFO  Logging:23 - ****************************************************************************************
+2019-05-14 14:28:48 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 14:28:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2019-05-14 14:28:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2019-05-14 14:28:48 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2019-05-14 14:28:49 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 14:28:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2019-05-14 14:28:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2019-05-14 14:28:49 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2019-05-14 14:28:49 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 14:28:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2019-05-14 14:28:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2019-05-14 14:28:49 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2019-05-14 14:28:49 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 14:28:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2019-05-14 14:28:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2019-05-14 14:28:49 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2019-05-14 14:28:49 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 14:28:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2019-05-14 14:28:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2019-05-14 14:28:49 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2019-05-14 14:28:49 DEBUG cache:45 - Couldn't find template in cache for "test-view/bdd.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 14:28:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/bdd_en.ftl"): Not found
+2019-05-14 14:28:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/bdd.ftl"): Found
+2019-05-14 14:28:49 DEBUG cache:45 - Loading template for "test-view/bdd.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/bdd.ftl"
+2019-05-14 14:28:49 DEBUG cache:45 - "test-view/bdd.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-05-14 14:28:49 DEBUG cache:45 - "test-view/bdd.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-05-14 14:28:49 DEBUG cache:45 - "test-view/bdd.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-05-14 14:28:49 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 14:28:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2019-05-14 14:28:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2019-05-14 14:28:49 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2019-05-14 14:28:49 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 14:28:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2019-05-14 14:28:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2019-05-14 14:28:49 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2019-05-14 14:28:49 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 14:28:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2019-05-14 14:28:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2019-05-14 14:28:49 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2019-05-14 14:28:49 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 14:28:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2019-05-14 14:28:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2019-05-14 14:28:49 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2019-05-14 14:28:49 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-05-14 14:28:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2019-05-14 14:28:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2019-05-14 14:28:49 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anshulmadan/.m2/repository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"

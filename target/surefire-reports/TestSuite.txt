@@ -1,0 +1,21 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 548.778 sec <<< FAILURE!
+feature(com.assignment.appiumTest.runner.TestRunner)  Time elapsed: 75.27 sec  <<< FAILURE!
+cucumber.runtime.CucumberException: java.lang.AssertionError: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ANSHUL48918', ip: '172.20.10.10', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: src\main\resources\selendro..., appActivity: HomeScreenActivity, appPackage: io.selendroid.testapp, appium-version: 1.13.0, autoAcceptAlerts: true, autoDismissAlerts: true, autoGrantPermissions: true, connectHardwareKeyboard: false, databaseEnabled: false, desired: {app: src\main\resources\selendro..., appActivity: HomeScreenActivity, appPackage: io.selendroid.testapp, appium-version: 1.13.0, autoAcceptAlerts: true, autoDismissAlerts: true, autoGrantPermissions: true, connectHardwareKeyboard: false, deviceName: Nexus6, orientation: PORTRAIT, platformName: android, platformVersion: 6.0}, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenSize: 1440x2560, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, orientation: PORTRAIT, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}
+Session ID: f99e4250-ce7b-4806-88b5-f7902ca25c29
+*** Element info: {Using=id, value=io.selendroid.testapp:id/exceptionTestButton} expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertTrue(Assert.java:44)
+	at com.assignment.appiumTest.Drivers.Drivers.getElement(Drivers.java:535)
+	at com.assignment.appiumTest.Drivers.Drivers.clickButton(Drivers.java:317)
+	at StepDefinations.Base.ClickOnButton(Base.java:21)
+	at ?.And User Click on "HomePage/Exception"(Exception.feature:8)
+

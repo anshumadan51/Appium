@@ -1,0 +1,117 @@
+<Pages>
+	<HomePage>
+
+		<StartRegistration>
+			<Id>io.selendroid.testapp:id/startUserRegistration</Id>
+		</StartRegistration>
+
+		<TouchActionbutton>
+			<Id>io.selendroid.testapp:id/touchTest</Id>
+		</TouchActionbutton>
+
+		<PopUpButton>
+			<Id>io.selendroid.testapp:id/showPopupWindowButton</Id>
+		</PopUpButton>
+
+		<Exception>
+			<Id>io.selendroid.testapp:id/exceptionTestButton</Id>
+		</Exception>
+		<WebView>
+			<Id>io.selendroid.testapp:id/buttonStartWebview</Id>
+		</WebView>
+	</HomePage>
+
+	<RegistrationPage>
+		<UserName>
+
+			<Id>io.selendroid.testapp:id/inputUsername</Id>
+		</UserName>
+		<Email>
+
+			<Id>io.selendroid.testapp:id/inputEmail</Id>
+		</Email>
+
+		<Password>
+
+			<Id>io.selendroid.testapp:id/inputPassword</Id>
+		</Password>
+
+		<Name>
+
+			<Id>io.selendroid.testapp:id/inputName</Id>
+		</Name>
+
+		<ProgrammingLanuguge>
+
+			<Id>io.selendroid.testapp:id/input_preferedProgrammingLanguage</Id>
+		</ProgrammingLanuguge>
+		<Lanugauge>
+			<Xpath>//android.widget.CheckedTextView[@text='Changetext']</Xpath>
+		</Lanugauge>
+
+		<Accept>
+			<Id>io.selendroid.testapp:id/input_adds</Id>
+		</Accept>
+
+		<RegisterUser>
+			<Id>io.selendroid.testapp:id/btnRegisterUser</Id>
+		</RegisterUser>
+
+		<AccessibilityId></AccessibilityId>
+		<xPath></xPath>
+		<id></id>
+
+	</RegistrationPage>
+
+	<VerifyUser>
+		<Name>
+
+			<Id>io.selendroid.testapp:id/label_name_data</Id>
+		</Name>
+
+		<Username>
+
+			<Id>io.selendroid.testapp:id/label_username_data</Id>
+		</Username>
+		<Email>
+
+			<Id>io.selendroid.testapp:id/label_email_data</Id>
+		</Email>
+		<ProgrammingLanuguge>
+
+			<Id>io.selendroid.testapp:id/label_preferedProgrammingLanguage_data</Id>
+		</ProgrammingLanuguge>
+
+		<Accept>
+			<Id>io.selendroid.testapp:id/label_acceptAdds_data</Id>
+		</Accept>
+
+		<RegisterUser>
+			<Id>io.selendroid.testapp:id/buttonRegisterUser</Id>
+		</RegisterUser>
+	</VerifyUser>
+
+	<TouchActions>
+
+		<GestureType>
+
+			<Id>io.selendroid.testapp:id/gesture_type_text_view</Id>
+		</GestureType>
+
+		<ScaleFactor>
+			<Id>io.selendroid.testapp:id/scale_factor_text_view</Id>
+		</ScaleFactor>
+	</TouchActions>
+
+	<WebView>
+
+		<WelcomeMessage>
+			<Xpath>//android.view.View[@index='0']</Xpath>
+		</WelcomeMessage>
+
+
+	</WebView>
+
+
+
+</Pages>

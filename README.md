@@ -28,15 +28,19 @@ Add Developer Account
 ```
 
 # Steps to execute the project
+Update excel sheet devices with your device details, Excel Path (src\main\resources\Testdata.xls).
+## Using Eclipse
 1. Open project in Eclipse
-2. Edit excel sheet devices with your device details, Excel Path (src\main\resources\Testdata.xls).
-3. Open cmd and go to POM.Xml path
+2. Right Click on project and Select Maven and select Maven Test
+
+## Using CMD
+1. Open cmd and go to POM.Xml path
 4. Enter command 'mvn test'
 
 
 ## Emualtor or Simualtor
-1. For android: need to setup a emulator using AVD manager
-2. For IOS : xCode should installed in mac machine.
+1. For android: setup a emulator using AVD manager.
+2. For IOS : xCode should be installed on mac machine.
 
  In this project No need to open emualtor or simulator it will automatically open the emulator or simulator.
  

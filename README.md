@@ -2,33 +2,33 @@
 Android And IOS Testing Framework
 
 # Test cases
-1. Verify Gesture Functionality
-2. Register a new User
-3. Verify WebView
-4. Verify Exception
+1. User verify the scrolling on application
+2. Register a new User and Verify Users details
+3. User verify the Webview of application and validate the data
+4. Verify Unhandled exception throw (application crash)
 
 # Installation Pre-requisites:
 Following tools must be installed to run the test case on desired machine:
 ## For Mobile Automation
 ```bash
-Install JDK
+Install JDK (v1.8.144)
 Install Node Js
-Install Eclipse
-Install appium "npm install -g Appium"
+Install Eclipse (mars)
+Install appium "npm install -g Appium" installed latest version(v1.13)
 ```
 ## For Android
 ```bash
 Install Android SDK
-Install Android API version
+Install Android API version 23
 ```
 ## For IOS
 ```bash
-Install XCode
+Install XCode (version-12)
 Add Developer Account
 ```
 
 # Steps to execute the project
-Update excel sheet devices with your device details, Excel Path (src\main\resources\Testdata.xls).
+Write your device configurations in Excel, Excel Path (src\main\resources\Testdata.xls).
 ## Using Eclipse
 1. Open project in Eclipse
 2. Right Click on project and Select Maven and select Maven Test
